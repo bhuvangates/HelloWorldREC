@@ -82,6 +82,6 @@
     </sap:WorkflowViewStateService.ViewState>
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" Buttons="YesNo" DisplayName="Welcome" sap:VirtualizedContainerService.HintSize="354,126.66666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;REC&quot;]" />
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="354,132" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="CSE" />
-    <Delay Duration="00:00:02" sap:VirtualizedContainerService.HintSize="354,114.66666666666667" sap2010:WorkflowViewState.IdRef="Delay_2" />
+    <Delay Duration="00:00:05" sap:VirtualizedContainerService.HintSize="354,114.66666666666667" sap2010:WorkflowViewState.IdRef="Delay_2" />
   </Sequence>
 </Activity>
